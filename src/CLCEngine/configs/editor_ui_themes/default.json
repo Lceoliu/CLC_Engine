@@ -1,0 +1,30 @@
+{
+    "button":
+    {
+        "colours":
+        {
+            "normal_border": "White",
+            "normal_bg": "SlateGray",
+            "normal_text": "White"
+        },
+        "misc":
+        {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "border_width": "2"
+        }
+    },
+    "@transparent_window":
+    {
+        "colours":{
+            "dark_bg": "#000000"
+        },
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "0",
+            "enable_title_bar": "0",
+            "enable_close_button": "0"
+        }
+    }
+}
