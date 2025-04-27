@@ -1,6 +1,6 @@
 # CLC Engine
 
-CLC Engine是一个基于pygame的2D游戏引擎，专为上海交通大学SI100b课程设计。它采用GameObject-Component架构，提供了一个易于使用的编辑器界面，使新手能够快速构建和测试游戏。
+CLC Engine是一个基于pygame的2D游戏引擎，专为上海科技大学SI100b课程设计。它采用GameObject-Component架构，提供了一个易于使用的编辑器界面，使新手能够快速构建和测试游戏。
 
 ## 主要特性
 
